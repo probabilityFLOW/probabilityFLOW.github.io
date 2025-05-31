@@ -12,6 +12,6 @@ Gemfile.lock
 node_modules
 package-lock.json
 
-# Ignore the ruby/Jellycat setup files
+# Ignore the ruby/Jekyll setup files
 .bundle/
 vendor/
