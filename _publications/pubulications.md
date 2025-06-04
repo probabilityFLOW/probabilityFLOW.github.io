@@ -4,5 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Here are some of my publications:
 
-This page contains all my publications; for more details, see my 
+## Conferences
+
+## Journals
+
+## Preprints
