@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yakun Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,14 +9,27 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-# About me
-
----
+About me
+------
 
 Hello there!  
-This is my personal website.
 
-A data-driven personal website
+I am a PhD candidate at University of Bristol, supervised by [Song Liu](https://anewgithubname.github.io/). I am interested in using machines to uncover the intrinsic nature of the world. To this end, my current research focuses on generative modeling, which provides a principled way for capturing the latent factors and generative processes behind observed phenomena.
+
+Selected Publications & Preprints
+------
+- [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. (Preprint)
+
+- [Direct Fisher Score Estimation for Likelihood Maximization](https://arxiv.org/abs/2506.06542). Khoo, S., **Wang, Y**., Liu, S. & Beaumont, M. (Neurips2025)
+  - **Spotlight, Top 3%**
+
+- [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/abs/2502.07650). Liu, S., Wang, L. & **Wang, Y**.
+  - **Outstanding long paper**, at Deep Generative Model in Machine Learning: Theory, Principle and Efficacy workshop at ICLR2025.
+
+\* Equal contribution
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +66,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

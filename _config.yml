@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "ParticleFLOW"
 title_separator          : "-"
-name                     : &name "Yakun Wang"
-description              : &description "personal description"
+name                     : "Yakun Wang"
+description              : "Discovering the intrinsic dimension"
 url                      : https://probabilityFLOW.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "probabilityFLOW/probabilityFLOW.github.io"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Ddcs5hAAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
