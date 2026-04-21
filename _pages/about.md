@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yakun Wang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,12 +18,12 @@ I am a PhD candidate at University of Bristol, supervised by [Song Liu](https://
 
 Selected Publications & Preprints
 ------
-- [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. (Preprint)
+- (Preprint) [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. 
 
-- [Direct Fisher Score Estimation for Likelihood Maximization](https://arxiv.org/abs/2506.06542). Khoo, S., **Wang, Y**., Liu, S. & Beaumont, M. (Neurips2025)
+- (NeurIPS2025) [Direct Fisher Score Estimation for Likelihood Maximization](https://arxiv.org/abs/2506.06542). Khoo, S., **Wang, Y**., Liu, S. & Beaumont, M. 
   - **Spotlight, Top 3%**
 
-- [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/abs/2502.07650). Liu, S., Wang, L. & **Wang, Y**.
+- (UAI2025) [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/abs/2502.07650). Liu, S., Wang, L. & **Wang, Y**.
   - **Outstanding long paper**, at Deep Generative Model in Machine Learning: Theory, Principle and Efficacy workshop at ICLR2025.
 
 \* Equal contribution
