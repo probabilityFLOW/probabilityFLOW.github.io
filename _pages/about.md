@@ -18,7 +18,7 @@ I am a PhD candidate at University of Bristol, supervised by [Song Liu](https://
 
 Selected Publications & Preprints
 ------
-- (Preprint) [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. 
+- (ICML2026) [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. 
 
 - (NeurIPS2025) [Direct Fisher Score Estimation for Likelihood Maximization](https://arxiv.org/abs/2506.06542). Khoo, S., **Wang, Y**., Liu, S. & Beaumont, M. 
   - **Spotlight, Top 3%**
