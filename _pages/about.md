@@ -14,10 +14,21 @@ About me
 
 Hello there!  
 
-I am a PhD candidate at University of Bristol, supervised by [Song Liu](https://anewgithubname.github.io/). I am interested in using machines to uncover the intrinsic nature of the world. To this end, my current research focuses on generative modeling, which provides a principled way for capturing the latent factors and generative processes behind observed phenomena.
+I am a PhD candidate at University of Bristol, supervised by [Song Liu](https://anewgithubname.github.io/). I am interested in teaching machines to uncover the intrinsic nature of the world. I am particularly fascinated by the idea that, in order to generate complex patterns, a model must first learn something fundamental about how those patterns are formed.
+
+
+My PhD research focuses on generative modeling [[paper](https://arxiv.org/abs/2502.07650)] and its application, including:
+
+- Simulation-Based Inference [[paper](https://arxiv.org/abs/2506.06542)]
+
+- Representation Learning [[paper](https://arxiv.org/abs/2602.00797)]
 
 Selected Publications & Preprints
 ------
+\* denotes equal contribution; a full list can be found at [my google scholar](https://scholar.google.com/citations?user=Ddcs5hAAAAAJ&hl=en).
+
+- (Preprint) Zero-Flow Two-Sample Tests (To appear).  **Wang, Y.**, Wang,L., Liu, S. & Suzuki, T. 
+
 - (ICML2026) [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. 
 
 - (NeurIPS2025) [Direct Fisher Score Estimation for Likelihood Maximization](https://arxiv.org/abs/2506.06542). Khoo, S., **Wang, Y**., Liu, S. & Beaumont, M. 
@@ -26,7 +37,7 @@ Selected Publications & Preprints
 - (UAI2025) [Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold](https://arxiv.org/abs/2502.07650). Liu, S., Wang, L. & **Wang, Y**.
   - **Outstanding long paper**, at Deep Generative Model in Machine Learning: Theory, Principle and Efficacy workshop at ICLR2025.
 
-\* Equal contribution
+
 
 
 <!-- A data-driven personal website
