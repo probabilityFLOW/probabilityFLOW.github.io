@@ -20,14 +20,14 @@ I am a PhD candidate at University of Bristol, supervised by [Song Liu](https://
 My PhD research focuses on generative modeling [[paper](https://arxiv.org/abs/2502.07650)] and its application, including:
 
 - Simulation-Based Inference [[paper](https://arxiv.org/abs/2506.06542)]
-
 - Representation Learning [[paper](https://arxiv.org/abs/2602.00797)]
+- Hypothesis Testing [[paper](https://arxiv.org/abs/2607.21542)]
 
-Selected Publications & Preprints
+Publications & Preprints
 ------
 \* denotes equal contribution; a full list can be found at [my google scholar](https://scholar.google.com/citations?user=Ddcs5hAAAAAJ&hl=en).
 
-- (Preprint) Zero-Flow Two-Sample Tests (To appear).  **Wang, Y.**, Wang,L., Liu, S. & Suzuki, T. 
+- (Preprint) [Zero-Flow Two-Sample Tests](https://arxiv.org/abs/2607.21542).  **Wang, Y.**, Wang,L., Liu, S. & Suzuki, T. 
 
 - (ICML2026) [Zero-Flow Encoders](https://arxiv.org/abs/2602.00797).  **Wang, Y.**\*, Wang,L.\*, Liu, S. & Suzuki, T. 
 
